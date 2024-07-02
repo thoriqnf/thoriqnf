@@ -1,7 +1,8 @@
-# I'm Thoriq Nur Faizal, a passionate Frontend Engineer with a focus on React. I also have experience in full-stack development using Node.js and Golang. Currently diving into Web3 technologies and learning Solidity to build decentralized applications. Let's connect!
+# Hi there! I'm Thoriq Nur Faizal
 
-## 📧 [thoriqnfaizal@gmail.com]
-## 🔗 [LinkedIn](https://www.linkedin.com/in/thoriqnf/)
+## A passionate Frontend Engineer with a focus on React. I also have experience in full-stack development using Node.js and Golang. Currently diving into Web3 technologies and learning Solidity to build decentralized applications. Let's connect!
+
+## Say Hi to me via 📧 email [thoriqnfaizal@gmail.com], LinkedIn [LinkedIn](https://www.linkedin.com/in/thoriqnf/)
 
 
 <!--
