@@ -1,4 +1,8 @@
-## Hi there 👋
+# I'm Thoriq Nur Faizal, a passionate Frontend Engineer with a focus on React. I also have experience in full-stack development using Node.js and Golang. Currently diving into Web3 technologies and learning Solidity to build decentralized applications. Let's connect!
+
+## 📧 [thoriqnfaizal@gmail.com]
+## 🔗 [LinkedIn](https://www.linkedin.com/in/thoriqnf/)
+
 
 <!--
 **thoriqnf/thoriqnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
